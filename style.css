@@ -1,0 +1,39 @@
+th,
+td {
+  border: 3px solid #000;
+  text-align: center;
+  vertical-align: top;
+  padding: 8px;
+}
+
+.table1 {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table2 {
+  width: 80%;
+  border-collapse: collapse;
+  margin: auto;
+}
+
+.table3 {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.black {
+  background-color: black;
+}
+
+.blue {
+  background-color: blue;
+}
